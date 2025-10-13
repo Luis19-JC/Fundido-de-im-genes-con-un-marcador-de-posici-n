@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
           child: FadeInImage.memoryNetwork(
             placeholder: placeholderBytes,
             image:
-                'https://i.pinimg.com/736x/d0/4d/f8/d04df81245b7d584e6c27f4f53f052bf.jpg',
+                'https://i.pinimg.com/736x/97/2c/d8/972cd8f3adbabe3fbf63ec472a42a087.jpg',
           ),
         ),
       ),
